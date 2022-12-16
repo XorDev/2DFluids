@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.0",
+  "option_operagx_next_version": "0.0.0.1",
+  "option_operagx_game_name": "HammyArcade",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "d8a6af2e-7b2f-4daf-ab48-6c1aea4611cf",
+  "option_operagx_team_name": "xordev studio",
+  "option_operagx_team_id": "10407230-2c4f-46c6-81b2-fe894c3e3faa",
+  "option_operagx_editUrl": "https://create.gx.games/game/d8a6af2e-7b2f-4daf-ab48-6c1aea4611cf/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}

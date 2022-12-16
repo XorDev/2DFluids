@@ -1,0 +1,56 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "2DFluids",
+  "resources": [
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":0,},
+    {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":1,},
+    {"id":{"name":"shd_water","path":"shaders/shd_water/shd_water.yy",},"order":0,},
+    {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":0,},
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":3,},
+    {"id":{"name":"spr_fountain","path":"sprites/spr_fountain/spr_fountain.yy",},"order":3,},
+    {"id":{"name":"obj_fountain","path":"objects/obj_fountain/obj_fountain.yy",},"order":4,},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":0,},
+    {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":2,},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy","order":7,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":10,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy","order":6,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
+  ],
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+  ],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"spr_player.png","CopyToMask":-1,"filePath":"datafiles",},
+  ],
+  "MetaData": {
+    "IDEVersion": "2022.11.1.56",
+  },
+}
