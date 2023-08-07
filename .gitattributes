@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Re-classify .yy files (for GM projects)
+*.yy linguist-language=GML
